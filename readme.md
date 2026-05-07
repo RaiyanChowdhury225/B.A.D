@@ -48,7 +48,7 @@ SaaS-style dashboard layout
 Dark/light theme support
 Responsive design (mobile + desktop)
 Smooth micro-interactions and transitions
-🧩 Tech Stack
+Tech Stack
 React.js
 JavaScript (ES6+)
 Chart.js / react-chartjs-2
